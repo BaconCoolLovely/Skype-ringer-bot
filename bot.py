@@ -2,7 +2,7 @@ import discord
 from discord.ext import commands
 import asyncio
 
-TOKEN = "YOUR_BOT_TOKEN_HERE"  # Replace with your actual bot token
+TOKEN = "DISCORD_TOKEN"  # dont change except you dont use render.com or anything else on pc
 
 intents = discord.Intents.default()
 intents.members = True
